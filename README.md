@@ -1,4 +1,4 @@
-# DELANI STUDIO
+# PERSONAL PORTFOLIO
 
 ## By Ann Wangui
 
