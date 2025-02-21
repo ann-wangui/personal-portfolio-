@@ -1,36 +1,11 @@
-# PERSONAL PORTFOLIO
+# 🚀 My Portfolio  
 
-## By Ann Wangui
+Welcome to my personal portfolio! I'm Ann wangui, a software develope passionate about full stack development. This portfolio showcases my projects, skills, and experience in [Your Field].  
 
-## project description
+## 📬 Contact Me  
 
-This is a website application on the delani studio.This is also aimed at making you know about delani.
+- ✉️ Email: **<wanguia822@gmail.com>**
 
-## SetUp/installation Requirement
+---
 
-* Net
-* browser on your pc
-* open the repo with your code editor
-* open the project on live Server
-
-## Known Bugs
-
-There are no known bugs
-
-## Technology used
-
-1. HTML5
-2. CSS
-3. js script
-
-## Support and Contact Details
-
-Feel free to call me or email me with respective contacts detail:
-
-* +254743715669
-* <wanguia822@gmail.com>
-
-### License
-
-MIT license
-copyright@ 2025
+Feel free to modify and personalize it! Want me to tailor it based on your tech stack and portfolio content? 😊
